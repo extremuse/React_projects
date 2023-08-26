@@ -1,0 +1,10 @@
+nav{
+    margin: 20px 0px 20px 0px;
+}
+.menu{
+    gap: 20px;
+    .menu-items{
+        color: black;
+        font-weight: 500;
+    }
+}
